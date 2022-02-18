@@ -1,4 +1,4 @@
-baseURL = "https://johnpconnors.github.io/"
+baseURL = "/"
 languageCode = "en-us"
 title = "John P. Casellas Connors"
 theme = "timer-hugo"
