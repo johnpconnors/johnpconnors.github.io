@@ -1,0 +1,100 @@
+baseURL = "https://johnpconnors.github.io"
+languageCode = "en-us"
+title = "John P. Casellas Connors"
+theme = "timer-hugo"
+# post pagination
+paginate = "2" # see https://gohugo.io/extras/pagination/
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[menu.main]]
+name = "Research"
+url = "research/"
+weight = 3
+
+[[menu.main]]
+name = "Teaching"
+url = "teaching/"
+weight = 4
+
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/namebanner.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Timer Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable = true
+bgImage = "images/slider.jpg"
+heading = "John P. Casellas Connors"
+description = "Assistant Professor in Geography at Texas A&M University"
+# button
+btn = true
+btnText = "Download CV"
+btnURL = "https://themefisher.com/"
+
+# flip text
+[[params.banner.flipText]]
+title = "POLITICAL ECOLOGY"
+[[params.banner.flipText]]
+title = "LAND SYSTEMS"
+[[params.banner.flipText]]
+title = "FOOD SECURITY"
+
+# Homepage About Section
+[params.about]
+enable = true
+title = "ABOUT ME"
+content = "I am a broadly trained as a human-environment geographer. My research addresses the social and political dimensions of environmental management programs and food systems. Utilizing an array of qualitative and quantitative methods, my research explores the ways that humans understand and transform their environments and ultimately are affected by these changes. My current research is particularly focused on how changes in the composition of agricultural productions systems across scales may affect the resilience of food systems and influence outcomes in food security. In addition, he is involved with a project examining wildlife management programs in suburban landscapes, where many species now thrive, but institutions and patterns of land use present distinct challenges for management."
+image = "images/about/headshot.png"
+
+# Call to Action
+[params.cta]
+enable = true
+title = "WANT TO KNOW MORE?"
+content = "If you have any questions about my research, would like to access papers or datasets, or want to inquire about working with me, please send me a message!"
+btnText = "Contact Me"
+btnURL = "contact/"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable = true
+title = "Current Projects"
+subtitle = "You can find information on some of my current research projects below."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "#"

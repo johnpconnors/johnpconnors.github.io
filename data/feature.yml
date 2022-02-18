@@ -1,0 +1,34 @@
+enable  : true
+title   : Publications and Media Coverage
+subtitle: >
+  Featured publications and media coverage below. See the research page for a full list of my publications.
+item    :
+  - icon  : ion-ios-flask-outline
+    title : Violent Entanglements
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : ion-ios-lightbulb-outline
+    title : Becoming Killable
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : ion-ios-americanfootball-outline
+    title : Perceptions of Deer
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : ion-ios-keypad-outline
+    title : The New Yorker
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : ion-ios-barcode-outline
+    title : The Conversation
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+  
+  - icon  : ion-ios-lightbulb-outline
+    title : Environmental Health News
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
