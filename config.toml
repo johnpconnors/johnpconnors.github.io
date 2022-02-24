@@ -1,4 +1,4 @@
-baseURL = "https://johnpconnors.netlify.app/"
+baseURL = "https://johnpconnors.github.io/"
 languageCode = "en-us"
 title = "John P. Casellas Connors"
 theme = "timer-hugo"
